@@ -31,7 +31,7 @@ Some more CSS
 
 Here's a walkthrough of implemented required features:
 
-![](vite-project/project2.gif)
+![](https://github.com/gs0930/Flashcards/blob/master/vite-project/project2.gif)
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
